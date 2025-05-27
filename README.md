@@ -36,16 +36,16 @@ Este es el primer entregable del proyecto de e-commerce creado con **React + Vit
 
 1. Cloná el repositorio:
 
-git clone https://github.com/SantiFontana04/CreaTuLanding1Fontana.git
+git clone https://github.com/SantiFontana04/CreaTuLanding_Fontana.git
 
-Entrá al proyecto:
+2. Entrá al proyecto:
 
 cd CreaTuLanding1Fontana
 
-Instalá las dependencias:
+3. Instalá las dependencias:
 
 npm install
 
-Iniciá el servidor de desarrollo:
+4. Iniciá el servidor de desarrollo:
 
 npm run dev
